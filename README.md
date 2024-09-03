@@ -13,3 +13,6 @@ Trunk Links: Two switches are added, and additional VLANs are created. Trunk lin
 
 Telnet Management: A third switch is added to the topology. Telnet is configured to manage all three switches from a specific VLAN.
 
+
+Subnetting for the first VLANs
+![image](https://github.com/user-attachments/assets/04abb64d-82d0-426a-9789-8a4cfd92c5bc)
